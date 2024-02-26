@@ -5,7 +5,7 @@ import booleanoo.Constants;
 /**
  * Unary operator "not" used for negation.
  */
-public class Not implements UnaryOperator{
+public class Not implements UnaryOperator {
 
   @Override
   public boolean equals(Object other) {

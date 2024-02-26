@@ -5,7 +5,7 @@ import booleanoo.Constants;
 /**
  * Binary "if and only if" operator.
  */
-public class Iff implements BinaryOperator{
+public class Iff implements BinaryOperator {
   @Override
   public boolean equals(Object other) {
     return other != null && other.getClass().equals(Iff.class);

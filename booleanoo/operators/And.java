@@ -1,9 +1,12 @@
 package booleanoo.operators;
+
 import booleanoo.Constants;
+
 /**
  * Represents a binary operator "and" used for conjunction.
  * It evaluates to true if and only if both operands are true.
  */
+
 public class And implements BinaryOperator {
 
   /**

@@ -5,7 +5,7 @@ import booleanoo.Constants;
 /**
  * Binary operator Or used for disjunction.
  */
-public class Or implements BinaryOperator{
+public class Or implements BinaryOperator {
 
   @Override
   public boolean equals(Object other) {
